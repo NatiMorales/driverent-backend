@@ -1,0 +1,6 @@
+@DriveRent.Api_HostAddress = http://localhost:5052
+
+GET {{DriveRent.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
